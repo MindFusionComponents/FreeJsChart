@@ -1,4 +1,13 @@
 ﻿/**
+ * Copyright (c) 2015-2017, MindFusion LLC - Bulgaria.
+ *
+ * This source code is provided to you as part of the MindFusion software components
+ * package you have purchased. You may use the source code to trace and/or fix
+ * problems or customize the library as needed for your application. To get permission
+ * to use the source code in any other way, please contact us at support@mindfusion.eu.
+ */
+
+/**
 * Represents a point in 2D space.
 */
 interface Point
@@ -250,7 +259,16 @@ interface CancelEventArgs extends EventArgs
 	set_cancel(value: boolean): void;
 }
 
+interface Dictionary
+{
+	new (): Dictionary;
+	set(key: any, value: any): void;
+	get(key: any): any;
+}
+
 declare var EventArgs: EventArgs;
+
+declare var Dictionary: Dictionary;
 
 declare module "MindFusion.Common" {
 	export = common;
@@ -283,6 +301,8 @@ declare var common: {
 	* Contains the arguments passed to handlers of cancellable events.
 	*/
 	CancelEventArgs: CancelEventArgs;
+
+	Dictionary: Dictionary;
 }
 
 

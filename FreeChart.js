@@ -3,19 +3,10 @@ var __extends = (this && this.__extends) || function (d, b) {
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-define(["require", "exports", 'MindFusion.Charting.free'], function (require, exports, m) {
+define(["require", "exports", 'MindFusion.Charting'], function (require, exports, m) {
     "use strict";
-    var DashboardEx = (function (_super) {
-        __extends(DashboardEx, _super);
-        function DashboardEx(element) {
-            _super.call(this, element);
-        }
-        DashboardEx.prototype.test = function () { console.log("Hello from DashboardEx"); };
-        return DashboardEx;
-    }(m.MindFusion.Charting.Controls.Chart));
     // series
     {
-        //wdnew DashboardEx(<HTMLCanvasElement>document.getElementById('barChart')).test();
         var seriesList = new m.MindFusion.Charting.Collections.ObservableCollection();
         var n1 = new m.MindFusion.Charting.Collections.List();
         n1.add(0);
