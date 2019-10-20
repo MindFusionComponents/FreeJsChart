@@ -1,0 +1,59 @@
+END-USER LICENSE AGREEMENT FOR MindFusion LLC FREE SOFTWARE
+
+This is the end-user license agreement for MindFusion UI controls that are offered free for unlimited personal and commercial use.
+
+This end-user license agreement ("Agreement") is a legal agreement between you (either an individual developer or an organization known as "Customer") and MindFusion LLC for the MindFusion's programming components identified above (hereinafter referred to as "Software"). By installing, copying, redistributing or otherwise using the Software or any Software Updates, Customer agrees to be bound by the terms of this Agreement. If Customer does not agree to the terms of this Agreement, please do not install, copy, redistribute or use the Software, including all Software Updates available as part of the Software (each, an "Update"). By installing, copying, or otherwise using an Update, Customer agrees to be bound by the additional license terms that accompany such Update. If Customer does not agree to the terms of the additional license terms that accompany the Update, disregard the Update and the additional license terms that accompany the Update. In this event, Customer's rights to use the Software shall continue to be governed by the then-existing Agreement.
+
+1. Copyright
+
+a. All rights, title, interests in and to copyrights in the Software (including but not limited to any software components, product documentation and associated media, sample files, extension files, tools and utilities, miscellaneous technical information, and any copies of the Software, are owned exclusively (or licensed) by MindFusion. The Software is protected by international copyright laws and treaty provisions. Therefore, you must treat the Software like any other copyrighted material. The Software is licensed for free, not sold for free.
+
+b. The Customer retains full ownership of the Intellectual Property Rights of applications they develop using MindFusion Software.
+
+2. Grant of License
+
+MindFusion LLC grants Customer the following rights:
+
+a. Customer is granted the worldwide, non-transferable, non-exclusive, and perpetual right to (i) use the Software for developing, testing, supporting and deploying software products which Customer creates, (ii) use Customer's products developed using the Software in its own company and to host, demonstrate and distribute Customer's products developed using the Software under Customer's own trade name, and (iii) reproduce and distribute (directly or indirectly, through multiple tiers of distribution) copies of the Software's run-time components (which are designated as run-time components in the Software or related documentation or otherwise identified as such by MindFusion LLC) as part of Customer's products to Customer's end users. The end users of the Customer products acquire no rights to the Software, except to use its run-time components with Customer's products.
+
+b.The Customer is NOT required to pay any license fees or other type of payments, to create backlinks or make any other annotations or attributions to MindFusion. The Software exposes no time limits, has no expiration date and there are no restrictions to the number of developers who use it.
+
+c.The Customer is NOT required to pay any distribution, runtime, royalty, or per-end-user license fees.
+
+e. Customer may create as many backup copies of the Software package as needed, as long as copies are not redistributed to third parties without explicit permission by MindFusion LLC.
+
+f. Solely with respect to electronic documents included with the Software, Customer may make an unlimited number of copies (either in hardcopy or electronic form), provided that such copies shall be used only for internal purposes and are not republished or distributed to any third party.
+
+MindFusion reserves all rights not expressly granted to Customer.
+
+3. Technical Support
+
+The Software is offered without technical support. MindFusion is not required to answer questions about the Software that Customer posts on the company forum, per email, using the HelpDesk or any other type of media.
+
+4. Upgrades
+
+MindFusion is not required to personally notify the Customer for any new releases of the Software. All upgrades of the Software are publicly announced on MindFusion company website, official blog as well using other digital media channels and social networks. The Customer is solely responsible for downloading the latest available version of the Software.
+
+5. Other Restrictions
+
+a. The Software is the sole and exclusive property of MindFusion LLC, including, but not limited to, all applicable rights to patents, copyrights, trademarks and trade secrets and is provided for Customer's exclusive use for the purposes of this Agreement and will be held in confidence.
+
+b. Customer will not alter, remove or obscure any designation name or mark from any supplied material that identifies such material as belonging to or developed by MindFusion LLC. Customer agrees not to disassemble, decompile, reverse engineer or otherwise reduce the Software to perceptible form. Customer agrees not to alter or modify the Software.
+
+c. Customer may not transfer, rent, lease, or sublicense the Software.
+
+5. Termination
+
+All rights granted hereunder shall immediately terminate upon Customer's failure to comply with the terms and conditions of this Agreement. In such event, Customer agrees to destroy all copies of the Software in any form and all of its component parts.
+
+6. Disclaimer of Warranty
+
+a. NO WARRANTIES. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, MINDFUSION DISCLAIMS ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND ANY WARRANTY AGAINST INFRINGEMENT, WITH REGARD TO THE SOFTWARE. THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS. YOU MAY HAVE OTHERS, WHICH VARY FROM STATE/JURISDICTION TO STATE/JURISDICTION.
+
+b. NO LIABILITY FOR DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MINDFUSION BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF MINDFUSION HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+CUSTOMER ACKNOWLEDGES THAT CUSTOMER HAS READ THIS AGREEMENT, UNDERSTAND IT AND AGREES TO BE BOUND BY ITS TERMS AND CONDITIONS. CUSTOMER FURTHER AGREES THAT IT IS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN CUSTOMER AND MINDFUSION LTD. WHICH SUPERSEDES ANY PROPOSAL OR PRIOR AGREEMENT, ORAL OR WRITTEN, AND ANY OTHER COMMUNICATIONS BETWEEN CUSTOMER AND MINDFUSION RELATING TO THE SOFTWARE. This Agreement may not be modified except by a writing signed by a duly authorized representative of MindFusion LLC
+
+Note:
+
+Should you have any questions concerning this Agreement, or if you want to contact MindFusion LLC for any other reason, please write to support@mindfusion.eu or call the MindFusion LLC Team at (+359) 888 951737.
